@@ -1,0 +1,8 @@
+
+Início:
+
+pwd
+/home/runner/Teste03
+
+1ª tarefa:
+git clone https://github.com/Askany83/LI2024-Teste03
