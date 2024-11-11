@@ -6,3 +6,18 @@ pwd
 
 1ª tarefa:
 git clone https://github.com/Askany83/LI2024-Teste03
+
+2ª tarefa:
+git add .
+git commit -m "2 tarefa concluida"
+git push origin main
+
+3ª tarefa 
+git add .
+git commit -m "3 tarefa concluida"
+git push origin main
+
+4ª tarefa 
+git add .
+git commit -m "4 tarefa concluida"
+git push origin main
