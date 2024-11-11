@@ -4,10 +4,10 @@ Início:
 pwd
 /home/runner/Teste03
 
-1ª tarefa:
+1ª tarefa
 git clone https://github.com/Askany83/LI2024-Teste03
 
-2ª tarefa:
+2ª tarefa
 git add .
 git commit -m "2 tarefa concluida"
 git push origin main
@@ -21,3 +21,10 @@ git push origin main
 git add .
 git commit -m "4 tarefa concluida"
 git push origin main
+
+5ª tarefa
+cp index.html disciplinas.html
+git add .
+git commit -m "5 tarefa concluida" (incorrecto o nome dado ao comentário)
+git push origin main
+
